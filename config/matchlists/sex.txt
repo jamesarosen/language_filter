@@ -49,8 +49,10 @@ dykes?
 fag\w*
 cumm?(ing|er)?
 jizz\w*
+porn
 pubes?
 puberty
 pubic
 smegma
 boy ?butter
+xxx
